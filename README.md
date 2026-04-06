@@ -1,3 +1,13 @@
+VeriSource AI 🛡️
+An Enterprise-Grade, Governance-First, Evidence-Only Document Verification Platform.
+Powered by Retrieval-Augmented Generation (RAG) + Controlled LLM Synthesis.
+
+Built to rigorously prove that Artificial Intelligence can answer critical compliance and academic questions from unstructured documents — without hallucinating, without guessing, and without mixing sources.
+
+Python React FastAPI ChromaDB Groq Vite
+
+
+
 # VeriSource AI 🛡️
 
 <div align="center">
